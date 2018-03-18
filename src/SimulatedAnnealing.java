@@ -3,6 +3,7 @@ import java.util.Collections;
 import java.util.Iterator;
 
 public class SimulatedAnnealing {
+	//cokolwiek test
 	public ArrayList<Activity> A; // all activities
 	private ArrayList<Activity> AP; // activities in progress
 	private ArrayList<Activity> AD; // done activities
