@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 
 public class Activity {
-	 
+	public int newTest;
 	public	int id;
 	public	int duration;
 	public	int timeLeft;
