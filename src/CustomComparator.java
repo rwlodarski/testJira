@@ -1,6 +1,6 @@
 import java.util.Comparator;
 
-//nowy test
+//nowy test cos
 public class CustomComparator implements Comparator<Activity> {
     @Override
     public int compare(Activity o1, Activity o2) {
