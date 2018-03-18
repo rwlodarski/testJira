@@ -15,7 +15,7 @@ public class RunClass {
 	 * @throws FileNotFoundException 
 	 */
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
-		
+		int nowyTest;
 		int c = 25;
 		
 		int solutionNo[]  = new int[c];
